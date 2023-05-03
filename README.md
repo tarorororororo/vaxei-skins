@@ -1,4 +1,11 @@
 # If anything is missing here, please just send me a screenshot of the skin you would like to my [osu! DM](https://osu.ppy.sh/home/messages/users/13586618), or Discord (taro#1181)
+
+<p align="center">
+<a href="https://osu.ppy.sh/users/4787150"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/1024px-Osu%21_Logo_2016.svg.png" width="48"></a>
+<a href="https://osu.ppy.sh/users/4787150"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Youtube-variation.png/640px-Youtube-variation.png" width="48"></a>
+<a href="https://osu.ppy.sh/users/4787150"><img src="https://www.freepnglogos.com/uploads/purple-twitch-logo-png-18.png" width="48"></a>
+</p>
+
 ## Current Skins:
 ### [Vaxei 2023](https://taro.s-ul.eu/SmXrag6c)
 ![](https://osu.ppy.sh/ss/18578171/29d3)
