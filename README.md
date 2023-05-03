@@ -2,8 +2,8 @@
 
 <p align="center">
 <a href="https://osu.ppy.sh/users/4787150"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/1024px-Osu%21_Logo_2016.svg.png" width="48"></a>
-<a href="https://osu.ppy.sh/users/4787150"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Youtube-variation.png/640px-Youtube-variation.png" width="48"></a>
-<a href="https://osu.ppy.sh/users/4787150"><img src="https://www.freepnglogos.com/uploads/purple-twitch-logo-png-18.png" width="48"></a>
+<a href="https://www.youtube.com/channel/UCJN31d6e12GMV_Lp_z20ngg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Youtube-variation.png/640px-Youtube-variation.png" width="48"></a>
+<a href="https://www.twitch.tv/vaxei_osu"><img src="https://www.freepnglogos.com/uploads/purple-twitch-logo-png-18.png" width="48"></a>
 </p>
 
 ## Current Skins:
