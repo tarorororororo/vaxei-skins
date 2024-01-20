@@ -1,4 +1,4 @@
-# If anything is missing here, please just send me a screenshot of the skin you would like to my [osu! DM](https://osu.ppy.sh/home/messages/users/13586618), or Discord (taro#1181)
+# If anything is missing here, please just send me a screenshot of the skin you would like to my [osu! DM](https://osu.ppy.sh/home/messages/users/13586618), or Discord (cheetoblast2)
 
 <p align="center">
 <a href="https://osu.ppy.sh/users/4787150"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/1024px-Osu%21_Logo_2016.svg.png" width="48"></a>
