@@ -20,22 +20,22 @@
 [![](https://osu.ppy.sh/ss/18578196/f963)](https://taro.s-ul.eu/eJghpLp4)
 
 ### [vaxei nomod ver. 2](https://taro.s-ul.eu/hW59HDXI)
-[![](https://cdn.discordapp.com/attachments/869530253687685170/1103184845976383588/screenshot045.jpg)](https://taro.s-ul.eu/hW59HDXI)
+[![](https://i.imgur.com/ujU0zH3.png)](https://taro.s-ul.eu/hW59HDXI)
 
 ### [Cookiezi 17 2016-02-27](https://taro.s-ul.eu/u3m3iPH0)
-[![](https://circle-people.com/wp-content/Skins/Cookiezi/Cookiezi%2017%202016-02-27.osk.jpg)](https://taro.s-ul.eu/u3m3iPH0)
+[![](https://camo.githubusercontent.com/afb1672674a20b338f8e57021e7f29b58b6db7c8eb579edbedd519b002c9b16d/68747470733a2f2f7368696765736b696e73732e732d756c2e65752f7a6a576f325a4735)](https://taro.s-ul.eu/u3m3iPH0)
 
 ### [Cookiezi 27 2017-12-01](https://taro.s-ul.eu/BfARUw3F)
-[![](https://camo.githubusercontent.com/c7688b9463d13ff1e33dc8e918cc86d87f00dfb015af680e18b7e75f71d6d8cc/68747470733a2f2f7368696765736b696e73732e732d756c2e65752f66627a4878504e6b)](https://taro.s-ul.eu/BfARUw3F)
+[![](https://camo.githubusercontent.com/bafb89dbefa06a027cf0b3337e8db1bdafa776ce91bd3473965425aeeedb9038/68747470733a2f2f7368696765736b696e73732e732d756c2e65752f66627a4878504e6b)](https://taro.s-ul.eu/BfARUw3F)
 
 ### [Cookiezi 28 2018-02-04](https://taro.s-ul.eu/HYL3aIz0)
-[![](https://camo.githubusercontent.com/70e2bcefcad26ae5273ad35d0a1a5e539465505c5b59b8bdc450d6ef4d3bf503/68747470733a2f2f7368696765736b696e73732e732d756c2e65752f76335a4551743673)](https://taro.s-ul.eu/HYL3aIz0)
+[![](https://camo.githubusercontent.com/56b37ce4b756883bd7c6e0577b2f7fc9c623d7f34b062cf79b59b759c6ca5257/68747470733a2f2f7368696765736b696e73732e732d756c2e65752f76335a4551743673)](https://taro.s-ul.eu/HYL3aIz0)
 
 ### [Dracula edit](https://taro.s-ul.eu/ViSMjNqX)
 [![](https://osu.ppy.sh/ss/18578187/451e)](https://taro.s-ul.eu/ViSMjNqX)
 
 ### [CS+Skin+ver.6.9+DUB+Edition+Remix](https://puu.sh/uPbqF/49c0f73b26.osk)
-[![](https://cdn.discordapp.com/attachments/869530253687685170/1103177465322557490/image.png)](https://puu.sh/uPbqF/49c0f73b26.osk)
+[![](https://i.imgur.com/NANQoUd.png)](https://puu.sh/uPbqF/49c0f73b26.osk)
 
 ## Old Skins:
 
@@ -55,7 +55,7 @@
 [![](https://osu.ppy.sh/ss/13422009/065e)](https://joofixd.s-ul.eu/zStMTKdG)
 
 ### [vaxei nomod ver. 2](https://taro.s-ul.eu/hW59HDXI)
-[![](https://cdn.discordapp.com/attachments/869530253687685170/1103184845976383588/screenshot045.jpg)](https://taro.s-ul.eu/hW59HDXI)
+[![](https://i.imgur.com/ujU0zH3.png)](https://taro.s-ul.eu/hW59HDXI)
 
 ### [vaxei nomod ver. 3](https://joofixd.s-ul.eu/RNHPWP03)
 [![](https://osu.ppy.sh/ss/14123538/e38b)](https://joofixd.s-ul.eu/RNHPWP03)
