@@ -48,6 +48,9 @@
 ### [404 SkinNotFound v2](https://joofixd.s-ul.eu/Ia93XGt5)
 [![](https://osu.ppy.sh/ss/13488989/a76a)](https://joofixd.s-ul.eu/Ia93XGt5)
 
+### [crystallized cookie (tsukinami)](https://taro.s-ul.eu/8XbyvOvg)
+[![](https://i.imgur.com/8ANBToo.png)](https://taro.s-ul.eu/8XbyvOvg)
+
 ### [SameSkinButNoFollowpoint edit asdf](https://joofixd.s-ul.eu/VAvLbpPX)
 [![](https://osu.ppy.sh/ss/15572018/843d)](https://joofixd.s-ul.eu/VAvLbpPX)
 
