@@ -23,13 +23,13 @@
 [![](https://i.imgur.com/ujU0zH3.png)](https://taro.s-ul.eu/hW59HDXI)
 
 ### [Cookiezi 17 2016-02-27](https://taro.s-ul.eu/u3m3iPH0)
-[![](https://camo.githubusercontent.com/afb1672674a20b338f8e57021e7f29b58b6db7c8eb579edbedd519b002c9b16d/68747470733a2f2f7368696765736b696e73732e732d756c2e65752f7a6a576f325a4735)](https://taro.s-ul.eu/u3m3iPH0)
+[![](https://osuskins.net/screenshots/UBMFVPD.jpg)](https://taro.s-ul.eu/u3m3iPH0)
 
 ### [Cookiezi 27 2017-12-01](https://taro.s-ul.eu/BfARUw3F)
-[![](https://camo.githubusercontent.com/bafb89dbefa06a027cf0b3337e8db1bdafa776ce91bd3473965425aeeedb9038/68747470733a2f2f7368696765736b696e73732e732d756c2e65752f66627a4878504e6b)](https://taro.s-ul.eu/BfARUw3F)
+[![](https://osuskins.net/screenshots/30VQgIo.jpg)](https://taro.s-ul.eu/BfARUw3F)
 
 ### [Cookiezi 28 2018-02-04](https://taro.s-ul.eu/HYL3aIz0)
-[![](https://camo.githubusercontent.com/56b37ce4b756883bd7c6e0577b2f7fc9c623d7f34b062cf79b59b759c6ca5257/68747470733a2f2f7368696765736b696e73732e732d756c2e65752f76335a4551743673)](https://taro.s-ul.eu/HYL3aIz0)
+[![](https://osuskins.net/screenshots/h42WprJ.jpg)](https://taro.s-ul.eu/HYL3aIz0)
 
 ### [Dracula edit](https://taro.s-ul.eu/ViSMjNqX)
 [![](https://osu.ppy.sh/ss/18578187/451e)](https://taro.s-ul.eu/ViSMjNqX)
