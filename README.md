@@ -7,6 +7,9 @@
 </p>
 
 ## Current Skins:
+### [Vaxei 2025 (no trail)](https://taro.s-ul.eu/CvTYYQFV)
+[![](https://taro.s-ul.eu/mwY0MkFa)](https://taro.s-ul.eu/CvTYYQFV)
+
 ### [Vaxei 2023](https://taro.s-ul.eu/SmXrag6c)
 [![](https://osu.ppy.sh/ss/18578171/29d3)](https://taro.s-ul.eu/SmXrag6c)
 
