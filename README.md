@@ -9,6 +9,8 @@
 ## Current Skins:
 ### [Vaxei 2025 (no trail)](https://taro.s-ul.eu/CvTYYQFV)
 [![](https://taro.s-ul.eu/mwY0MkFa)](https://taro.s-ul.eu/CvTYYQFV)
+temp link for yall who see this on 5 september 2025 (s-ul is down rn) if it stays down ill reupload everything somewhere else, discord links are temporary
+https://cdn.discordapp.com/attachments/1219110792071352330/1413417559558062131/Vaxei_2025.osk?ex=68bbdb2e&is=68ba89ae&hm=f35562841c097aaad8609cfb7072f1169c1f89834db7c76c8367edfe59306136&
 
 ### [Vaxei 2023](https://taro.s-ul.eu/SmXrag6c)
 [![](https://osu.ppy.sh/ss/18578171/29d3)](https://taro.s-ul.eu/SmXrag6c)
